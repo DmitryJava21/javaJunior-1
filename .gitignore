@@ -1,2 +1,6 @@
 # Project exclude paths
+<<<<<<< HEAD
 /out/
+=======
+/out/1
+>>>>>>> 5ac2210 (first commit2)
