@@ -1,0 +1,256 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="73a126c2-4fbf-4c32-9641-59bced8fc4e7" name="Default Changelist" comment="first commit2" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1s4JXW235nKQNWdnAGv80qf1BD3" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="create.test.in.the.same.root" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/lesson10/interfaces" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
+    <property name="settings.editor.selected.configurable" value="org.jetbrains.plugins.github.ui.GithubSettingsConfigurable" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\User\IdeaProjects\javaJunior-1\src\lesson10\interfaces" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\User\IdeaProjects\javaJunior-1\src\lesson13" />
+      <recent name="C:\Users\User\IdeaProjects\javaJunior-1\src\lesson10\interfaces" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.Main (1)">
+    <configuration name="Main (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="lesson14.Main" />
+      <module name="javaJunior-1" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="lesson14.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Main1 (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="lesson14.Main1" />
+      <module name="javaJunior-1" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="lesson14.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Main1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="lesson13.Main1" />
+      <module name="javaJunior-1" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="lesson14.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Main2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="lesson13.Main2" />
+      <module name="javaJunior-1" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="lesson14.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Main3" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="lesson13.Main3" />
+      <module name="javaJunior-1" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="lesson14.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Main4" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="lesson13.Main4" />
+      <module name="javaJunior-1" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="lesson13.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Main (1)" />
+        <item itemvalue="Application.Main4" />
+        <item itemvalue="Application.Main3" />
+        <item itemvalue="Application.Main1 (1)" />
+        <item itemvalue="Application.Main2" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="SvnConfiguration">
+    <configuration>C:\Users\User\AppData\Roaming\Subversion</configuration>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="73a126c2-4fbf-4c32-9641-59bced8fc4e7" name="Default Changelist" comment="" />
+      <created>1620125969810</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1620125969810</updated>
+      <workItem from="1620125972895" duration="1756000" />
+      <workItem from="1620128038815" duration="1966000" />
+      <workItem from="1620146840635" duration="7243000" />
+      <workItem from="1620325041310" duration="11287000" />
+      <workItem from="1620401032657" duration="7630000" />
+      <workItem from="1620413526483" duration="634000" />
+      <workItem from="1620496520547" duration="3090000" />
+      <workItem from="1620502472724" duration="849000" />
+      <workItem from="1620751513797" duration="6871000" />
+      <workItem from="1620910722728" duration="14296000" />
+      <workItem from="1620926286467" duration="7000" />
+      <workItem from="1620926339985" duration="88000" />
+      <workItem from="1620973139593" duration="791000" />
+      <workItem from="1620983872693" duration="4749000" />
+      <workItem from="1621072318656" duration="743000" />
+      <workItem from="1621081209013" duration="7535000" />
+      <workItem from="1621097177073" duration="1493000" />
+      <workItem from="1621326200766" duration="1901000" />
+      <workItem from="1621329171603" duration="218000" />
+      <workItem from="1621356798241" duration="8833000" />
+      <workItem from="1621596535191" duration="109000" />
+      <workItem from="1621596683656" duration="119000" />
+      <workItem from="1621596904923" duration="101000" />
+      <workItem from="1621597092838" duration="23000" />
+      <workItem from="1621597141955" duration="8339000" />
+      <workItem from="1621678116713" duration="27000" />
+      <workItem from="1621695599401" duration="7172000" />
+      <workItem from="1621776742200" duration="5000" />
+      <workItem from="1621850245592" duration="4811000" />
+      <workItem from="1621961086144" duration="7781000" />
+      <workItem from="1622134101091" duration="761000" />
+      <workItem from="1622134890351" duration="914000" />
+      <workItem from="1622135836909" duration="2005000" />
+      <workItem from="1622137919305" duration="3344000" />
+      <workItem from="1622382635412" duration="9000" />
+      <workItem from="1622383289896" duration="21000" />
+      <workItem from="1622383323483" duration="88000" />
+      <workItem from="1622385816796" duration="6669000" />
+      <workItem from="1622394643338" duration="9035000" />
+      <workItem from="1622543650990" duration="5191000" />
+      <workItem from="1622548935064" duration="9000" />
+      <workItem from="1622567234193" duration="6901000" />
+      <workItem from="1622712805646" duration="12000" />
+      <workItem from="1622735732199" duration="8047000" />
+      <workItem from="1623171450434" duration="6652000" />
+      <workItem from="1623344501652" duration="136000" />
+      <workItem from="1623415944151" duration="10743000" />
+      <workItem from="1624458252758" duration="6618000" />
+      <workItem from="1624477683296" duration="82000" />
+    </task>
+    <task id="LOCAL-00001" summary="first commit2">
+      <created>1624476832951</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1624476832951</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="1">
+          <value>
+            <State>
+              <option name="SHOW_ONLY_AFFECTED_CHANGES" value="true" />
+              <option name="FILTERS">
+                <map>
+                  <entry key="branch">
+                    <value>
+                      <list>
+                        <option value="HEAD" />
+                      </list>
+                    </value>
+                  </entry>
+                  <entry key="structure">
+                    <value>
+                      <list>
+                        <option value="dir:C:/Users/User/IdeaProjects/javaJunior-1/src/lesson1" />
+                      </list>
+                    </value>
+                  </entry>
+                </map>
+              </option>
+            </State>
+          </value>
+        </entry>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="first commit2" />
+    <option name="LAST_COMMIT_MESSAGE" value="first commit2" />
+  </component>
+</project>
